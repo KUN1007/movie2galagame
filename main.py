@@ -9,7 +9,7 @@ import os
 srt = pysrt.open("input.srt")
 video = "movie.mp4"
 use_effect = True
-music = True
+music = False
 
 
 def writerpy(msg):
