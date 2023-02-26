@@ -1,5 +1,7 @@
 # movie2galagame
  
+ original repo: [Quandong-Zhang/movie2galagame](https://github.com/Quandong-Zhang/movie2galagame)
+ 
 <h2>注意，脚本运行需要ffmpeg环境，请将ffmpeg.exe放置于与main.py同一目录下。</h2>
 1.将影片命名为movie.mp4，字幕命名为input.srt并放置在与main.py同一目录下<br>
 2.运行main.py<br>
